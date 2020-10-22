@@ -1,0 +1,15 @@
+
+[id=scorecard] {
+    border: solid;
+}
+
+[id=all-dice] {
+    padding: 1rem;
+    margin: 2px;
+}
+
+[id^=dice] {
+    border: solid;
+    padding: 1rem;
+    margin: 2px;
+}
